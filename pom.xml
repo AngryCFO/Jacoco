@@ -16,7 +16,7 @@
     <dependency>
         <groupId>org.junit.jupiter</groupId>
         <artifactId>junit-jupiter</artifactId>
-        <version>${junit.version}</version>
+        <junit.version>5.8.2</junit.version>
         <scope>test</scope>
     </dependency>
     </dependencies>
